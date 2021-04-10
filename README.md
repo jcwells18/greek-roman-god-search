@@ -1,1 +1,1 @@
-# greek-roman-god-search
+# Instructor Demo
